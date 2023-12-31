@@ -20,13 +20,11 @@
 # Versespot
 #### Video Demo:  https://youtu.be/u6CWlECEOZU
 #### Description: 
-A simple way to find Bible verses.
-Search a verse, word, phrase or anything written in the Bible
-#### Features:
-- Search for a verse in the bible
-- Search a random verse in the bible
-- Read the verse from the chapter
-- Generate a verse component image
+A simple way to find Bible verses. Search a verse, word, phrase or anything written in the Bible. 
+You can search for a verse in the bible, search a random verse in the bible, read the verse from the chapter and generate a verse component image.
+I've made the app design on Figma, had to spend 3 days making it, because to me, it's the hardest part
+The app is static, generated using Next.js. I spent one week to complete the app, there were a lot of bugs to find of course. 
+I had the idea to make a bible verse searcher, because sometimes when I remember a verse or word from the bible I have to search on Google, and sometimes when it's just a small phrase for example, it gets hard to find. 
 
 ---
   
