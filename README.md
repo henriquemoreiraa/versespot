@@ -1,8 +1,10 @@
-<img width="100%" alt="versespot" src="https://github.com/henriquemoreiraa/versespot/assets/98126579/8544ac29-d380-4c18-b003-53be337ccbdc">
+<div align="center">
+  <img  alt="Captura de tela 2024-01-01 125406" src="https://github.com/henriquemoreiraa/versespot/assets/98126579/aa4d4d27-8ec1-49f8-aeee-e027666d0396">
+</div>
 
 
 <h4 align="center"> 
-  <a href="https://find-contributors.vercel.app/" target="_blanc">
+  <a href="https://versespot.vercel.app" target="_blank">
     🚀  Versespot🔍 In production...  🚀  
   </a>
 </h4>
@@ -16,17 +18,6 @@
  <a href="#env">Env</a> • 
  <a href="#autor">Author</a>
 </p>
-
-# Versespot
-#### Video Demo:  https://youtu.be/u6CWlECEOZU
-#### Description: 
-A simple way to find Bible verses. Search a verse, word, phrase or anything written in the Bible. 
-You can search for a verse in the bible, search a random verse in the bible, read the verse from the chapter and generate a verse component image.
-I've made the app design on Figma, had to spend 3 days making it, because to me, it's the hardest part
-The app is static, generated using Next.js. I spent one week to complete the app, there were a lot of bugs to find of course. 
-I had the idea to make a bible verse searcher, because sometimes when I remember a verse or word from the bible I have to search on Google, and sometimes when it's just a small phrase for example, it gets hard to find. 
-
----
   
 <h3 id="api">📬 API</h3> 
 
@@ -66,6 +57,17 @@ $ npm install
 
 BIBLIA_TOKEN
 ```
+
+---
+
+<h3 id="techs">🛠 Technologies</h3>    
+
+The following tools were used in building the project:
+
+
+- [Next.js](https://nextjs.org)
+
+- [Tailwind CSS](https://tailwindcss.com)
 
 ---
 
